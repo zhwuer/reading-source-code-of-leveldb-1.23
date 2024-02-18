@@ -9,3 +9,5 @@ out/
 
 .idea/
 cmake-build-debug/
+
+cscope.out
